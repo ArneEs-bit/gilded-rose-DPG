@@ -2,7 +2,8 @@ package com.gildedrose;
 
 public final class QualityValues {
 
-	public final static int lowestPossibleValue = 0;
-	public final static int highestPossibleValue = 50;
+	public final static int min_quality = 0;
+	public final static int max_quality = 50;
+	
 	
 }
